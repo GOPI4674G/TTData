@@ -1,8 +1,8 @@
 {
   "Positions":[
-    {"User id":0,
-     "X": 1,
-     "Y": 5
+    {"User id":"0",
+     "X": "1",
+     "Y": "5"
     },
     
     {"User id":1,
